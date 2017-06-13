@@ -19,3 +19,4 @@ All'interno troverà anche i file con dentro i dati.
 
 Inoltre, nella cartella zip da estrarre e poi importare in eclipse, c'è la javadoc, i test strutturali e funzionali ,il file txt dei test coverage e all'interno della cartella srs ho messo un appunto sul srs , in pratica spiego che ho aggiunto una parte per quanto riguarda lo usecase 1 e lo usecase 11.
 
+Per far partire il progetto, bisogna lanciare prima la classe Server.java e poi la classe Main.java
