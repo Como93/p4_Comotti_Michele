@@ -1,0 +1,7 @@
+Appunto su Srs 
+
+UseCase 1 : Aggiunta Credenziali 
+E' stata aggiunto la parte del server, che serve a prendere le credenziali nel caso l'utente avesse l'account dei vari app store da aggiungere poi nel nostro sistema
+
+UseCase 11 : Modifica Credenziali
+Aggiungengo il server, si presuppone di modificare prima le credenziali degli app store all'interno del server, e poi di andare a re-inserire le credenziali all'interno del nostro sistema
